@@ -1,9 +1,4 @@
 la la land
-<<<<<<< HEAD
-1
-=======
-worst song ever
--pararam
--badabum
--parah
->>>>>>> feature
+всё удалил
+потому что так уже сложно понять
+где и чего там происходит
